@@ -1,2 +1,64 @@
-﻿body {
+﻿
+
+    #container {
+    background: white;
+    height: auto;
+    width: 1240px;
+    margin: auto;
 }
+
+#header {
+    background: white;
+    color: blue;
+    border-top: 2px solid blue;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+    padding: 5px;
+    height: 75px
+}
+
+h1 {
+    text-align: center;
+    font-size: 20pt;
+}
+
+
+#menu {
+    background: white;
+    color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+    border: 2px solid blue;
+    text-align: left;
+    height: 30px;
+}
+
+
+#main {
+    background: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 1196px;
+    height: 600px;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+    margin-left: auto;  
+    margin-right: auto;
+}
+
+
+
+    #footer {
+    background: white;
+    color: blue;
+    clear:both;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    font-size: 16pt;
+    border: 2px solid blue;
+    
+}
+

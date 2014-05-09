@@ -34,8 +34,8 @@
             
         
             <br />
-            <asp:DropDownList ID="Language1" runat="server" AutoPostback="true" Height="16px" Width="151px">
-                <asp:ListItem Value="auto">Auto</asp:ListItem>
+            <asp:DropDownList ID="Language1" runat="server" AutoPostback="true" Height="32px" Width="176px">
+                <asp:ListItem Value="en-US">Languages</asp:ListItem>
                 <asp:ListItem Value="en-US">English (US)</asp:ListItem>
                 <asp:ListItem Value="es">Spanish</asp:ListItem>
                 <asp:ListItem Value="ar-SA">Arabic</asp:ListItem>

@@ -15,9 +15,12 @@
     
 
 <div id="container">
+
     
 
         <div id="main">
+
+            
 
             <h1><asp:Label ID="Welcome" runat="server" Text="<%$ Resources:Resource, Welcome %>"></asp:Label></h1>
            
@@ -41,8 +44,11 @@
             <br />
 
             </div>
-    
-            <div id="information">
+
+           
+            
+    <div id="information">
+        
 
                 <h1><asp:Label ID="studentinfo" runat="server" meta:resourceKey="studentinfo" Text="Label"></asp:Label></h1>
 
@@ -51,25 +57,29 @@
 
             <asp:Label ID="namelabel" runat="server" meta:resourceKey="namelabel" Text="Label"></asp:Label>
 
-            &nbsp;<asp:TextBox ID="nameTB" runat="server" Width="216px"></asp:TextBox>
+           &nbsp;<asp:TextBox ID="nameTB" runat="server" Width="216px"></asp:TextBox>
                 <br />
                 <br />
-                <asp:Label ID="genderlabel" runat="server" meta:resourceKey="genderlabel" Text="Label"></asp:Label>
+           <asp:Label ID="genderlabel" runat="server" meta:resourceKey="genderlabel" Text="Label"></asp:Label>
 
             &nbsp;<asp:RadioButton ID="maleButton1" runat="server" meta:resourceKey="radio1"/>
             &nbsp;<asp:RadioButton ID="femaleButton2" runat="server" meta:resourceKey="radio2" />
-
             <br />
             <br />
-
-
-            <asp:Label ID="graduationlabel" runat="server" meta:resourceKey="graduationlabel" Text="Label"></asp:Label>
+            <asp:Label ID="graduationlabel" runat="server" meta:resourceKey="graduationlabel" Text="selectdate"></asp:Label>
+            <asp:Label ID="hellolabel" runat="server" meta:resourceKey="hello" Text="hello"></asp:Label>&nbsp;<asp:Label ID="label6" runat="server" Text="Label"></asp:Label>
+                <asp:Label ID="nameresponse" runat="server" Text="name output"></asp:Label>
             <br />
-        
+            <br />
+            <asp:Label ID="graduateresponse" runat="server" meta:resourceKey="graduateresponse" Text="graduateresponse"></asp:Label>&nbsp;<asp:Label ID="calendarresponse" runat="server" Text="Label"></asp:Label>
             <br />
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
-            
             <br />
+            <asp:Label ID="salaryrepsonse" runat="server" meta:resourceKey="salaryresponse" Text="salaryresponse"></asp:Label>&nbsp;<asp:Label ID="currencylabel1" runat="server" Text="Label"></asp:Label>
+            <br />
+            <br />
+            <asp:Label ID="github" runat="server" meta:resourceKey="github" Text="github"></asp:Label>
+            &nbsp;<asp:LinkButton ID="githublink" runat="server">GitHub</asp:LinkButton>
             <br />
             <asp:Label ID="salarylabel" runat="server" meta:resourceKey="salarylabel" Text="Label"></asp:Label>
             &nbsp;<asp:TextBox ID="salaryTB" runat="server" Width="172px"></asp:TextBox>
@@ -77,15 +87,19 @@
                 <br />
                 <br />
                 <asp:Button ID="Button1" runat="server" Text="Button" Width="89px" meta:resourceKey="submitbutton" />
-            
-            <br />
-            <br />
-            <asp:Label ID="currencylabel1" runat="server" Text="Label"></asp:Label>
-            
-        
-            </div>
 
+
+   
+            
+            <br />
+            <br />
+       </div>     
     </div>
+  
+        
+          
+    
+
     </form>
 </body>
 </html>

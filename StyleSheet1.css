@@ -3,7 +3,7 @@
 #container {
     background: white;
     height: auto;
-    width: 720px;
+    width: 800px;
     margin: auto;
 }
 
@@ -36,7 +36,7 @@ h1 {
 
 #information {
     float:right;
-    width: 452px;
+    width: 532px;
     border: 2px solid blue;
     height: 610px;
     padding-top: 20px;

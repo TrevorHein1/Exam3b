@@ -117,10 +117,45 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Button1.Text" xml:space="preserve">
-    <value>你好</value>
+  <data name="genderlabel.text" xml:space="preserve">
+    <value>我是：</value>
+  </data>
+  <data name="graduationlabel.Text" xml:space="preserve">
+    <value>我打算在毕业:</value>
   </data>
   <data name="Label1.Text" xml:space="preserve">
     <value>语言选择</value>
+  </data>
+  <data name="namelabel.text" xml:space="preserve">
+    <value>我的名字是：</value>
+  </data>
+  <data name="radio1.text" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="radio2.text" xml:space="preserve">
+    <value>女</value>
+  </data>
+  <data name="salarylabel.Text" xml:space="preserve">
+    <value>当我毕业了，我希望赚</value>
+  </data>
+  <data name="studentinfo.text" xml:space="preserve">
+    <value>学生信息</value>
+  </data>
+  <data name="submitbutton.text" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="github.text" xml:space="preserve">
+    <value>请访问我的</value>
+  </data>
+  <data name="graduateresponse.text" xml:space="preserve">
+    <value>我希望你有一个伟大的日子，当 
+你毕业的</value>
+  </data>
+  <data name="hello.text" xml:space="preserve">
+    <value>您好,</value>
+  </data>
+  <data name="salaryresponse.text" xml:space="preserve">
+    <value>我祝愿你在你的职业生涯后， 
+毕业。我希望你赚</value>
   </data>
 </root>

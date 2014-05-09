@@ -117,10 +117,45 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Button1.Text" xml:space="preserve">
-    <value>Hola</value>
+  <data name="genderlabel.text" xml:space="preserve">
+    <value>I am</value>
+  </data>
+  <data name="graduationlabel.Text" xml:space="preserve">
+    <value>Tengo la intención de graduarse a:</value>
   </data>
   <data name="Label1.Text" xml:space="preserve">
     <value>Seleccionar Idioma</value>
+  </data>
+  <data name="namelabel.text" xml:space="preserve">
+    <value>Mi nombre es</value>
+  </data>
+  <data name="radio1.text" xml:space="preserve">
+    <value>Masculino</value>
+  </data>
+  <data name="radio2.text" xml:space="preserve">
+    <value>Femenino</value>
+  </data>
+  <data name="salarylabel.Text" xml:space="preserve">
+    <value>Cuando me gradúe, espero poder ganar</value>
+  </data>
+  <data name="studentinfo.text" xml:space="preserve">
+    <value>Informaiton Estudiante</value>
+  </data>
+  <data name="submitbutton.text" xml:space="preserve">
+    <value>Fresentar</value>
+  </data>
+  <data name="github.text" xml:space="preserve">
+    <value>Por favor, visite conmigo en</value>
+  </data>
+  <data name="graduateresponse.text" xml:space="preserve">
+    <value>Espero que tengas un gran día en que 
+de graduarse en</value>
+  </data>
+  <data name="hello.text" xml:space="preserve">
+    <value>Hola,</value>
+  </data>
+  <data name="salaryresponse.text" xml:space="preserve">
+    <value>Te deseo lo mejor en su carrera después de 
+graduación. Espero que usted gana</value>
   </data>
 </root>

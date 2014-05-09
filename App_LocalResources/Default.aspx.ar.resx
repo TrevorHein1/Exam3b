@@ -117,10 +117,45 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Button1.Text" xml:space="preserve">
-    <value>مرحبا</value>
+  <data name="genderlabel.text" xml:space="preserve">
+    <value>أنا:</value>
+  </data>
+  <data name="graduationlabel.Text" xml:space="preserve">
+    <value>أخطط لتخريج على:</value>
   </data>
   <data name="Label1.Text" xml:space="preserve">
-    <value>اختر اللغة</value>
+    <value>اسمي</value>
+  </data>
+  <data name="namelabel.text" xml:space="preserve">
+    <value>اسمي ::</value>
+  </data>
+  <data name="radio1.text" xml:space="preserve">
+    <value>ذكر</value>
+  </data>
+  <data name="radio2.text" xml:space="preserve">
+    <value>أنثى</value>
+  </data>
+  <data name="salarylabel.Text" xml:space="preserve">
+    <value>عند تخرجي، وآمل أن يكسب</value>
+  </data>
+  <data name="studentinfo.text" xml:space="preserve">
+    <value>معلومات الطالب</value>
+  </data>
+  <data name="submitbutton.text" xml:space="preserve">
+    <value>عرض</value>
+  </data>
+  <data name="github.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+  </data>
+  <data name="graduateresponse.text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عندما 
+هل تخرجت على</value>
+  </data>
+  <data name="hello.text" xml:space="preserve">
+    <value>مرحبا،</value>
+  </data>
+  <data name="salaryresponse.text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد 
+التخرج. آمل أن تكسب</value>
   </data>
 </root>
